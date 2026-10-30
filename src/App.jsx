@@ -8,7 +8,7 @@ export default function App() {
       Weather App
       <footer>
         This project was coded by Alena and is open-sourced on{" "}
-        <a href="">Github</a>.
+        <a href="https://github.com/Alyona1703/React-Weather-App">Github</a>.
       </footer>
     </div>
   );
