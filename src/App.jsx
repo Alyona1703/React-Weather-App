@@ -9,7 +9,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <h1>Weather App</h1>
-        <Weather />
+        <Weather defaultCity="Berlin" />
         <footer>
           This project was coded by Alena and is open-sourced on{" "}
           <a href="https://github.com/Alyona1703/React-Weather-App">Github</a>.
