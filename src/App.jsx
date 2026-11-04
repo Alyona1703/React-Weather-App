@@ -12,7 +12,14 @@ export default function App() {
         <Weather defaultCity="Berlin" />
         <footer>
           This project was coded by Alena and is open-sourced on{" "}
-          <a href="https://github.com/Alyona1703/React-Weather-App">Github</a>.
+          <a
+            href="https://github.com/Alyona1703/React-Weather-App"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Github
+          </a>
+          .
         </footer>
       </div>
     </div>
